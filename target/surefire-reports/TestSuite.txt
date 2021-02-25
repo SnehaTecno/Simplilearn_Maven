@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.932 s <<< FAILURE! - in TestSuite
+Test.Testcase1.LaunchBrowser  Time elapsed: 0.84 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /home/mokshavktecnotr/Downloads/chromedriver
+	at Test.Testcase1.LaunchBrowser(Testcase1.java:28)
+
